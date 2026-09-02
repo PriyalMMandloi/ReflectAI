@@ -1,0 +1,6 @@
+{
+  "name": "ReflectAI - Journal & Reflections",
+  "description": "User-authenticated multi-turn reflective journaling and AI synthesis powered by Firebase and Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
